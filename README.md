@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Kang Chan!
 
-<!--
-**dhwlddj22/dhwlddj22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at Kyonggi University  
+💻 Passionate about Android & Flutter Development  
+📈 Currently working on **AI Stock Insight**, an AI-based stock analysis app  
+🌱 Learning: Firebase, API integration, and OpenAI GPT API  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Skills
+- **Languages:** Dart, HTML/CSS  
+- **Frameworks:** Flutter, Firebase  
+- **Tools:** Android Studio, VS Code, Git
+
+---
+
+### 📂 Projects
+🔹 [AI Stock Insight](https://github.com/dhwlldj22/AI_Stock_Insight) – AI-driven stock analysis Flutter app  
+🔹 [nono](https://github.com/dhwlldj22/Noise-Guard) – Flutter practice project  
+🔹 [first_project](https://github.com/dhwlldj22/first_project) – Frontend study starter  
+
+---
+
+### 📫 Contact
+📧 Email: qmfhzhffl22@naver.com 
+💼 GitHub: [dhwlldj22](https://github.com/dhwlldj22)
