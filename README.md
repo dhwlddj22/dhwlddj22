@@ -16,7 +16,7 @@
 
 ### 📂 Projects
 🔹 [AI Stock Insight](https://github.com/dhwlldj22/AI_Stock_Insight) – AI-driven stock analysis Flutter app  
-🔹 [nono](https://github.com/dhwlldj22/Noise-Guard) – Flutter practice project  
+🔹 [Noise-Guard](https://github.com/dhwlldj22/Noise-Guard) – Flutter practice project  
 🔹 [first_project](https://github.com/dhwlldj22/first_project) – Frontend study starter  
 
 ---
